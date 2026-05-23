@@ -117,7 +117,7 @@ booking-form/
 
 - React 18
 - Vite
-- CSS
+- Tailwind CSS
 
 ## Future Enhancements
 
